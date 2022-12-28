@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
 
+# Mac OS Photo Organizer Utility
+# Bret Swalberg (theswally@gmail.com)
+# December 2022
+
 import argparse
 import os
 import datetime
